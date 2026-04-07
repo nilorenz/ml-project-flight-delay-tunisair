@@ -1,19 +1,5 @@
 # Machine Learning Flight Delay Project Tunisair
 
-This repository is for the Machine Learning Flight Delay Project with data for predicting flight delays for Tunisair flights.
-
-## Data Origin
-
-Data originally available on zindi: https://zindi.africa/competitions/flight-delay-prediction-challenge
-
-## Collaborators and Team
-
-Christian, Jan and Niklas
-
-## ------------------------------------------------------------------
-
-# Machine Learning Flight Delay Project Tunisair
-
 This project focuses on predicting flight delays for TunisAir using historical flight data. The goal is to build a regression model that estimates the arrival delay (in minutes).
 
 ## Collaborators and Team
@@ -31,13 +17,13 @@ Language: Python
 
 Libraries: 
 
-Pandas & NumPy: Data manipulation and cleaning.
+- Pandas & NumPy: Data manipulation and cleaning.
 
-Seaborn: Exploratory Data Analysis (EDA) and visualization.
+- Seaborn: Exploratory Data Analysis (EDA) and visualization.
 
-Scikit-Learn: Preprocessing and baseline modeling (ElasticNet).
+- Scikit-Learn: Preprocessing and baseline modeling (ElasticNet).
 
-XGBoost & RandomForest: Advanced ensemble methods for regression.
+- XGBoost & RandomForest: Advanced ensemble methods for regression.
 
 ## Workflow & Methodology
 
