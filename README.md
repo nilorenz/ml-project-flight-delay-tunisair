@@ -63,6 +63,6 @@ Libraries:
 
 The models were evaluated using Root Mean Squared Error (RMSE) and the R² Score.
 
-The optimized XGBoost model achieved a best RMSE of 38.76.
+The optimized XGBoost model achieved a best RMSE of 38.79.
 
-The R² score of 0.18 reflects the difficulty of predicting delays solely based on schedule data, as many delays are caused by external, stochastic factors like weather or unplanned technical maintenance.
+The R² score of 0.17 reflects the difficulty of predicting delays solely based on schedule data, as many delays are caused by external, stochastic factors like weather or unplanned technical maintenance.
